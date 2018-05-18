@@ -1,5 +1,9 @@
 # Weather
 
+#Change Key
+* Go to Utility page
+* Open the APIinterface class and change the APPID key
+
 #Screenshots
 
 #Home screen portrait
